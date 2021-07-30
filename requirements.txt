@@ -2,4 +2,4 @@ matplotlib
 scipy
 numpy
 pandas
-IPython.display
+IPython
